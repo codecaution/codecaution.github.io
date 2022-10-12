@@ -25,6 +25,7 @@ News
 
 Publications
 =====
+
 2022
 ======
 + **TSPLIT: Fine-grained GPU Memory Management for Efficient DNN Training via Tensor Splitting.** [[PDF]](https://ieeexplore.ieee.org/document/9835178)
