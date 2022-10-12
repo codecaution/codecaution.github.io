@@ -7,23 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#Xiaonan Nie (聂小楠)
+Xiaonan Nie (聂小楠)
+====
 Email: xiaonan.nie [AT] pku.edu.cn
 
 I am currently a fourth-year PhD student (2019 -- 2024) advised by Prof. [Bin Cui](https://cuibinpku.github.io) at School of Computer Science, Peking University. My research interests include Large-Scale Deep Learning Systems, Distributed Computing, Heterogeneous Computing and Sparse Neural Network. I am the main developer of [Hetu](https://hsword.github.io/projects/hetu/), an highly efficient distributed deep learning system.
 
 Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at Tencent. I lead the development of a Large-Scale Pre-training System, Angel-PTM, which supports the training of trillion-level models(e.g., HunYuan_nlp in [CLUE](https://cluebenchmarks.com/rank.html)). I was a research intern in [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) of Microsoft Research Asia (MSRA), working with [Lingxiao Ma](https://xysmlx.github.io), [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/), [Shijie Cao](https://www.microsoft.com/en-us/research/people/shijiecao/) and [Youshan Miao](https://www.microsoft.com/en-us/research/people/yomia/), where we focused on training sparse MoE models efficiently.
 
-##News
+News
+=====
 + Oct 11th,2022: I was invited to present [EvoMoE](https://arxiv.org/abs/2112.14397) at [Google Workshop on Sparsity and Adaptive Computation](https://rsvp.withgoogle.com/events/googleworkshopsparsityadaptivecomputation-2022).
 
 + Aug 24th, 2022: We won the Best Scalable Data Science Paper Award of [VLDB 2022](https://vldb.org/2022/?conference-awards)!
 
 + Jan 20th, 2022: We won Outstanding Award & Champion of [2021 CCF BDCI Contest](https://mp.weixin.qq.com/s/hSoDMVMZApQxaiNqh2jUSg). (1st/33757).
 
-##Publications
-
-###2022
+Publications
+=====
+2022
+======
 + **TSPLIT: Fine-grained GPU Memory Management for Efficient DNN Training via Tensor Splitting.** [[PDF]](https://ieeexplore.ieee.org/document/9835178)
   <u>Xiaonan Nie</u>,  Xupeng Miao, Zhi Yang and Bin Cui
   *In Proceedings of ICDE Conference 2022*
@@ -48,12 +51,14 @@ Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at 
   <u>Xiaonan Nie</u>, Xupeng Miao, Shijie Cao, Lingxiao Ma, Qibin Liu, Jilong Xue, Youshan Miao, Yi Liu, Zhi Yang and Bin Cui
   *arXiv 2022*
 
-### 2021
+2021
+=====
 + **Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce.** [[PDF]](https://dl.acm.org/doi/10.1145/3448016.3452773)
   Xupeng Miao, <u>Xiaonan Nie</u>, Yingxia Shao, Zhi Yang, Jiawei Jiang, Lingxiao Ma and Bin Cui
   *In Proceedings of SIGMOD Conference 2021*
 
-##Awards
+Awards
+====
 + [CCF BDCI](https://www.datafountain.cn/special/BDCI2021) Outstanding Award & Champion, 2021.
 + ACM-ICPC Asia Regional Contest, Silver Medal, 2017.
 + National Scholarship, 2016.
