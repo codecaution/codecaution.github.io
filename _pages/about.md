@@ -75,5 +75,6 @@ Publications
 Awards
 ====
 + [CCF BDCI](https://www.datafountain.cn/special/BDCI2021) Outstanding Award & Champion, 2021.
++ [HUAWEI DIGIX Global AI Challenge](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixWinnersDetail/201621215957378831), First runner-up of *Search rankings in multimodal and multilingual contexts*, 2021.
 + ACM-ICPC Asia Regional Contest, Silver Medal, 2017.
 + National Scholarship, 2016.
