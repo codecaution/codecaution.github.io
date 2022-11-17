@@ -34,7 +34,7 @@ Publications
 
   *In Proceedings of SIGMOD Conference 2023*
 
-+ **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://dl.acm.org/doi/10.14778/3489496.3489511)
++ **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** 
 
   Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, <u>Xiaonan Nie</u>, Hailin Zhang and Bin Cui
 
