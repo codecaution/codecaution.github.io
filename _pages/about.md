@@ -26,6 +26,20 @@ News
 Publications
 =====
 
+2023
+======
++ **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.**
+
+  <u>Xiaonan Nie</u>,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui
+
+  *In Proceedings of SIGMOD Conference 2023*
+
++ **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://dl.acm.org/doi/10.14778/3489496.3489511)
+
+  Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, <u>Xiaonan Nie</u>, Hailin Zhang and Bin Cui
+
+  *Proc. VLDB Endow. 2023* 
+
 2022
 ======
 + **TSPLIT: Fine-grained GPU Memory Management for Efficient DNN Training via Tensor Splitting.** [[PDF]](https://ieeexplore.ieee.org/document/9835178)
@@ -33,6 +47,12 @@ Publications
   <u>Xiaonan Nie</u>,  Xupeng Miao, Zhi Yang and Bin Cui
 
   *In Proceedings of ICDE Conference 2022*
+
++ **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate.** [[PDF]](https://arxiv.org/abs/2112.14397)
+
+  <u>Xiaonan Nie</u>, Xupeng Miao, Shijie Cao, Lingxiao Ma, Qibin Liu, Jilong Xue, Youshan Miao, Yi Liu, Zhi Yang and Bin Cui
+
+  *Google Workshop on Sparsity and Adaptive Computation 2022* 
 
 + **Hetu: A highly efficient automatic parallel distributed deep learning system.**
 
@@ -58,11 +78,6 @@ Publications
 
   *In Proceedings of ICML Hardware Aware Efficient Training (HAET) Workshop 2022*
 
-+ **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate.** [[PDF]](https://arxiv.org/abs/2112.14397)
-
-  <u>Xiaonan Nie</u>, Xupeng Miao, Shijie Cao, Lingxiao Ma, Qibin Liu, Jilong Xue, Youshan Miao, Yi Liu, Zhi Yang and Bin Cui
-
-  *arXiv 2022*
 
 2021
 =====
