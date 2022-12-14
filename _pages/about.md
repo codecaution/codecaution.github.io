@@ -13,7 +13,7 @@ Email: xiaonan.nie [AT] pku.edu.cn
 
 I am currently a fourth-year PhD student (2019 -- 2024) advised by Prof. [Bin Cui](https://cuibinpku.github.io) at School of Computer Science, Peking University. My research interests include Large-Scale Deep Learning Systems, Distributed Computing, Heterogeneous Computing and Sparse Neural Network. I am the main developer of [Hetu](https://hsword.github.io/projects/hetu/), an highly efficient distributed deep learning system.
 
-Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at Tencent. I lead the development of a Large-Scale Pre-training System, Angel-PTM, which supports the training of trillion-level models(e.g., HunYuan_nlp in [CLUE](https://cluebenchmarks.com/rank.html)). I was a research intern in [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) of Microsoft Research Asia (MSRA), working with [Lingxiao Ma](https://xysmlx.github.io), [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/), [Shijie Cao](https://www.microsoft.com/en-us/research/people/shijiecao/) and [Youshan Miao](https://www.microsoft.com/en-us/research/people/yomia/), where we focused on training sparse MoE models efficiently.
+Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at Tencent. I lead the development of a Large-Scale Pre-training System, Angel-PTM, which supports the training of trillion-level models(e.g., HunYuan-NLP 1T, Top-1 model in [CLUE](https://cluebenchmarks.com/rank.html)). I was a research intern in [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) of Microsoft Research Asia (MSRA), working with [Lingxiao Ma](https://xysmlx.github.io), [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/), [Shijie Cao](https://www.microsoft.com/en-us/research/people/shijiecao/) and [Youshan Miao](https://www.microsoft.com/en-us/research/people/yomia/), where we focused on training sparse MoE models efficiently.
 
 News
 =====
@@ -32,13 +32,13 @@ Publications
 
   <u>Xiaonan Nie</u>,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui
 
-  *In Proceedings of SIGMOD Conference 2023*
+  *SIGMOD 2023, CCF-A*
 
-+ **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** 
++ **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)
 
   Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, <u>Xiaonan Nie</u>, Hailin Zhang and Bin Cui
 
-  *Proc. VLDB Endow. 2023* 
+  *VLDB 2023, CCF-A* 
 
 2022
 ======
@@ -46,7 +46,7 @@ Publications
 
   <u>Xiaonan Nie</u>,  Xupeng Miao, Zhi Yang and Bin Cui
 
-  *In Proceedings of ICDE Conference 2022*
+  *ICDE 2022, CCF-A*
 
 + **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate.** [[PDF]](https://arxiv.org/abs/2112.14397)
 
@@ -54,11 +54,11 @@ Publications
 
   *Google Workshop on Sparsity and Adaptive Computation 2022* 
 
-+ **Hetu: A highly efficient automatic parallel distributed deep learning system.**
++ **Hetu: A highly efficient automatic parallel distributed deep learning system.** [[PDF]](http://scis.scichina.com/en/2023/117101.pdf)
 
   Xupeng Miao, <u>Xiaonan Nie</u>, Hailin Zhang, Tong Zhao and Bin Cui
 
-  *Sci. China Inf. Sci. 2022*
+  *Sci. China Inf. Sci. 2022, CCF-A*
 
 + **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [[PDF]](https://dl.acm.org/doi/10.14778/3489496.3489511)
 
@@ -70,13 +70,13 @@ Publications
 
   Xupeng Miao, Yining Shi, Hailin Zhang,  Xin Zhang, <u>Xiaonan Nie</u>, Zhi Yang and Bin Cui
 
-  *In Proceedings of SIGMOD Conference 2022*
+  *SIGMOD 2022, CCF-A*
 
 + **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)
 
   Youhe Jiang,  Xupeng Miao, <u>Xiaonan Nie</u> and Bin Cui
 
-  *In Proceedings of ICML Hardware Aware Efficient Training (HAET) Workshop 2022*
+  *ICML Workshop 2022 (HAET), CCF-A*
 
 
 2021
@@ -85,7 +85,7 @@ Publications
 
   Xupeng Miao, <u>Xiaonan Nie</u>, Yingxia Shao, Zhi Yang, Jiawei Jiang, Lingxiao Ma and Bin Cui
 
-  *In Proceedings of SIGMOD Conference 2021*
+  *SIGMOD 2021, CCF-A*
 
 Awards
 ====
