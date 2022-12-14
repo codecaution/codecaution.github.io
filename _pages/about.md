@@ -28,15 +28,15 @@ Publications
 
 2023
 ======
-1. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [To appear] 
-  **Xiaonan Nie**,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui
+1. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [To appear]
+  **Xiaonan Nie**,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui.
   ACM SIGMOD International Conference on Management of Data. 
-  ***SIGMOD 2023, CCF-A***
+  ***SIGMOD 2023, CCF-A.***
 
 2. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)
-  Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui
+  Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui.
   International Conference on Very Large Data Bases. 
-  ***VLDB 2023, CCF-A*** 
+  ***VLDB 2023, CCF-A.*** 
 
 2022
 ======
