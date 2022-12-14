@@ -36,7 +36,7 @@ Publications
 2. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)<br>
   Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui.<br>
   International Conference on Very Large Data Bases. <br>
-  ***VLDB 2023, CCF-A.***
+  ***VLDB 2023, CCF-A.*** 
 
 2022
 ======
@@ -45,27 +45,29 @@ Publications
   IEEE International Conference on Data Engineering. <br>
   ***ICDE 2022, CCF-A.*** <br>
 
-1. **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate.** [[PDF]](https://arxiv.org/abs/2112.14397)<br>
+2. **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate.** [[PDF]](https://arxiv.org/abs/2112.14397)<br>
   **Xiaonan Nie**, Xupeng Miao, Shijie Cao, Lingxiao Ma, Qibin Liu, Jilong Xue, Youshan Miao, Yi Liu, Zhi Yang and Bin Cui.<br>
   Google Workshop on Sparsity and Adaptive Computation. <br>
 
-1. **Hetu: A highly efficient automatic parallel distributed deep learning system.** [[PDF]](http://scis.scichina.com/en/2023/117101.pdf)<br>
+3. **Hetu: A highly efficient automatic parallel distributed deep learning system.** [[PDF]](http://scis.scichina.com/en/2023/117101.pdf)<br>
   Xupeng Miao, ***Xiaonan Nie***, Hailin Zhang, Tong Zhao and Bin Cui.<br>
   Science China Information Sciences.<br>
   **SCIS 2022, CCF-A.** <br>
 
-1. **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [[PDF]](https://dl.acm.org/doi/10.14778/3489496.3489511)<br>
+4. **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [[PDF]](https://dl.acm.org/doi/10.14778/3489496.3489511) <br>
   Xupeng Miao, Hailin Zhang, Yining Shi,  **Xiaonan Nie**, Zhi Yang, Yangyu Tao and Bin Cui. <br>
   International Conference on Very Large Data Bases. <br>
-  ***VLDB 2022, CCF-A,*** **<font color=purple>Best Scalable Data Science Paper!</font>** <br>
-1. **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [[PDF]](https://dl.acm.org/doi/10.1145/3514221.3517902)
+  ***VLDB 2022, CCF-A,*** **<font color=purple>Best Scalable Data Science Paper!</font>**
+
+5. **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [[PDF]](https://dl.acm.org/doi/10.1145/3514221.3517902)<br>
   Xupeng Miao, Yining Shi, Hailin Zhang,  Xin Zhang, **Xiaonan Nie**, Zhi Yang and Bin Cui.<br>
   ACM SIGMOD International Conference on Management of Data. <br>
-  ***SIGMOD 2022, CCF-A.*** <br>
-1. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
+  ***SIGMOD 2022, CCF-A.***
+
+6. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
   Youhe Jiang,  Xupeng Miao, **Xiaonan Nie** and Bin Cui.<br>
   International Conference on Machine Learning. <br>
-  ***ICML 2022, CCF-A.*** <br>
+  ***ICML 2022, CCF-A.***
 
 
 2021
