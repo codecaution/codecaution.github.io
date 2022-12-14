@@ -28,52 +28,52 @@ Publications
 
 2023
 ======
-1. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [To appear]
-  **Xiaonan Nie**,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui.
-  ACM SIGMOD International Conference on Management of Data. 
+1. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [To appear]<br>
+  **Xiaonan Nie**,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui.<br>
+  ACM SIGMOD International Conference on Management of Data. <br>
   ***SIGMOD 2023, CCF-A.***
 
-2. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)
-  Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui.
-  International Conference on Very Large Data Bases. 
-  ***VLDB 2023, CCF-A.*** 
+2. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)<br>
+  Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui.<br>
+  International Conference on Very Large Data Bases. <br>
+  ***VLDB 2023, CCF-A.***
 
 2022
 ======
-1. **TSPLIT: Fine-grained GPU Memory Management for Efficient DNN Training via Tensor Splitting.** [[PDF]](https://ieeexplore.ieee.org/document/9835178)
-  **Xiaonan Nie**,  Xupeng Miao, Zhi Yang and Bin Cui
-  IEEE International Conference on Data Engineering. 
-  ***ICDE 2022, CCF-A***
+1. **TSPLIT: Fine-grained GPU Memory Management for Efficient DNN Training via Tensor Splitting.** [[PDF]](https://ieeexplore.ieee.org/document/9835178)<br>
+  **Xiaonan Nie**,  Xupeng Miao, Zhi Yang and Bin Cui.<br>
+  IEEE International Conference on Data Engineering. <br>
+  ***ICDE 2022, CCF-A.*** <br>
 
-2. **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate.** [[PDF]](https://arxiv.org/abs/2112.14397)
-  **Xiaonan Nie**, Xupeng Miao, Shijie Cao, Lingxiao Ma, Qibin Liu, Jilong Xue, Youshan Miao, Yi Liu, Zhi Yang and Bin Cui
-  Google Workshop on Sparsity and Adaptive Computation 
+1. **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate.** [[PDF]](https://arxiv.org/abs/2112.14397)<br>
+  **Xiaonan Nie**, Xupeng Miao, Shijie Cao, Lingxiao Ma, Qibin Liu, Jilong Xue, Youshan Miao, Yi Liu, Zhi Yang and Bin Cui.<br>
+  Google Workshop on Sparsity and Adaptive Computation. <br>
 
-3. **Hetu: A highly efficient automatic parallel distributed deep learning system.** [[PDF]](http://scis.scichina.com/en/2023/117101.pdf)
-  Xupeng Miao, ***Xiaonan Nie***, Hailin Zhang, Tong Zhao and Bin Cui
-  Science China Information Sciences
-  **SCIS 2022, CCF-A**
+1. **Hetu: A highly efficient automatic parallel distributed deep learning system.** [[PDF]](http://scis.scichina.com/en/2023/117101.pdf)<br>
+  Xupeng Miao, ***Xiaonan Nie***, Hailin Zhang, Tong Zhao and Bin Cui.<br>
+  Science China Information Sciences.<br>
+  **SCIS 2022, CCF-A.** <br>
 
-4. **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [[PDF]](https://dl.acm.org/doi/10.14778/3489496.3489511)
-  Xupeng Miao, Hailin Zhang, Yining Shi,  **Xiaonan Nie**, Zhi Yang, Yangyu Tao and Bin Cui
-  International Conference on Very Large Data Bases. 
-  ***VLDB 2022, CCF-A,*** **<font color=purple>Best Scalable Data Science Paper!</font>**
-5. **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [[PDF]](https://dl.acm.org/doi/10.1145/3514221.3517902)
-  Xupeng Miao, Yining Shi, Hailin Zhang,  Xin Zhang, **Xiaonan Nie**, Zhi Yang and Bin Cui
-  ACM SIGMOD International Conference on Management of Data. 
-  ***SIGMOD 2022, CCF-A***
-6. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)
-  Youhe Jiang,  Xupeng Miao, **Xiaonan Nie** and Bin Cui
-  International Conference on Machine Learning. 
-  ***ICML 2022, CCF-A***
+1. **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [[PDF]](https://dl.acm.org/doi/10.14778/3489496.3489511)<br>
+  Xupeng Miao, Hailin Zhang, Yining Shi,  **Xiaonan Nie**, Zhi Yang, Yangyu Tao and Bin Cui. <br>
+  International Conference on Very Large Data Bases. <br>
+  ***VLDB 2022, CCF-A,*** **<font color=purple>Best Scalable Data Science Paper!</font>** <br>
+1. **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [[PDF]](https://dl.acm.org/doi/10.1145/3514221.3517902)
+  Xupeng Miao, Yining Shi, Hailin Zhang,  Xin Zhang, **Xiaonan Nie**, Zhi Yang and Bin Cui.<br>
+  ACM SIGMOD International Conference on Management of Data. <br>
+  ***SIGMOD 2022, CCF-A.*** <br>
+1. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
+  Youhe Jiang,  Xupeng Miao, **Xiaonan Nie** and Bin Cui.<br>
+  International Conference on Machine Learning. <br>
+  ***ICML 2022, CCF-A.*** <br>
 
 
 2021
 =====
-1. **Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce.** [[PDF]](https://dl.acm.org/doi/10.1145/3448016.3452773)
-  Xupeng Miao, **Xiaonan Nie**, Yingxia Shao, Zhi Yang, Jiawei Jiang, Lingxiao Ma and Bin Cui
-  ACM SIGMOD International Conference on Management of Data(HEAT Workshop). 
-  ***SIGMOD 2021, CCF-A***
+1. **Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce.** [[PDF]](https://dl.acm.org/doi/10.1145/3448016.3452773)<br>
+  Xupeng Miao, **Xiaonan Nie**, Yingxia Shao, Zhi Yang, Jiawei Jiang, Lingxiao Ma and Bin Cui.<br>
+  ACM SIGMOD International Conference on Management of Data(HEAT Workshop).<br> 
+  ***SIGMOD 2021, CCF-A.*** <br>
 
 Awards
 ====
