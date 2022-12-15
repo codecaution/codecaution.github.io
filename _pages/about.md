@@ -66,7 +66,7 @@ Publications
 
 6. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
   Youhe Jiang,  Xupeng Miao, **Xiaonan Nie** and Bin Cui.<br>
-  International Conference on Machine Learning. <br>
+  International Conference on Machine Learning(HEAT Workshop). <br>
   ***ICML 2022, CCF-A.***
 
 
@@ -74,7 +74,7 @@ Publications
 =====
 1. **Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce.** [[PDF]](https://dl.acm.org/doi/10.1145/3448016.3452773)<br>
   Xupeng Miao, **Xiaonan Nie**, Yingxia Shao, Zhi Yang, Jiawei Jiang, Lingxiao Ma and Bin Cui.<br>
-  ACM SIGMOD International Conference on Management of Data(HEAT Workshop).<br> 
+  ACM SIGMOD International Conference on Management of Data.<br> 
   ***SIGMOD 2021, CCF-A.*** <br>
 
 Awards
