@@ -17,9 +17,9 @@ Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at 
 
 News
 =====
-+ Dec 13th, 2022: One paper is accepted by ***SIGMOD 2023***.
++ Dec 13th, 2022: One paper was accepted by ***SIGMOD 2023***.
 
-+ Oct 16th, 2022: One paper is accepted by ***VLDB 2023***.
++ Oct 16th, 2022: One paper was accepted by ***VLDB 2023***.
   
 + Oct 11th, 2022: I was invited to present [EvoMoE](https://arxiv.org/abs/2112.14397) at ***Google Workshop on Sparsity and Adaptive Computation***.
 <!-- + (https://rsvp.withgoogle.com/events/googleworkshopsparsityadaptivecomputation-2022). -->
