@@ -17,9 +17,15 @@ Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at 
 
 News
 =====
-+ Oct 11th,2022: I was invited to present [EvoMoE](https://arxiv.org/abs/2112.14397) at [Google Workshop on Sparsity and Adaptive Computation](https://rsvp.withgoogle.com/events/googleworkshopsparsityadaptivecomputation-2022).
++ Dec 13th, 2022: One paper is accepted by ***SIGMOD 2023***.
 
-+ Aug 24th, 2022: We won the Best Scalable Data Science Paper Award of [VLDB 2022](https://vldb.org/2022/?conference-awards)!
++ Oct 16th, 2022: One paper is accepted by ***VLDB 2023***.
+  
++ Oct 11th, 2022: I was invited to present [EvoMoE](https://arxiv.org/abs/2112.14397) at ***Google Workshop on Sparsity and Adaptive Computation***.
+<!-- + (https://rsvp.withgoogle.com/events/googleworkshopsparsityadaptivecomputation-2022). -->
+
++ Aug 24th, 2022: We won the Best Scalable Data Science Paper Award of ***VLDB 2022***.
+<!-- + (https://vldb.org/2022/?conference-awards)! -->
 
 + Jan 20th, 2022: We won Outstanding Award & Champion of [2021 CCF BDCI Contest](https://mp.weixin.qq.com/s/hSoDMVMZApQxaiNqh2jUSg). (1st/33757).
 
@@ -33,7 +39,7 @@ Publications
   ACM SIGMOD International Conference on Management of Data. <br>
   ***SIGMOD 2023, CCF-A.***
 
-2. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)<br>
+1. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)<br>
   Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui.<br>
   International Conference on Very Large Data Bases. <br>
   ***VLDB 2023, CCF-A.*** 
