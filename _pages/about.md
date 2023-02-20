@@ -11,9 +11,15 @@ Xiaonan Nie (聂小楠)
 ====
 Email: xiaonan.nie [AT] pku.edu.cn
 
-I am currently a fourth-year PhD student (2019 -- 2024) advised by Prof. [Bin Cui](https://cuibinpku.github.io) at School of Computer Science, Peking University. My research interests include Large-Scale Deep Learning Systems, Distributed Computing, Heterogeneous Computing and Sparse Neural Network. I am the main developer of [Hetu](https://hsword.github.io/projects/hetu/), an highly efficient distributed deep learning system.
+I am a fourth-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io). My research interests primarily lie in the field of large-scale deep learning systems, with a focus on distributed computing, heterogeneous computing, and sparse neural networks. 
 
-Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at Tencent. I lead the development of a Large-Scale Pre-training System, Angel-PTM, which supports the training of trillion-level models(e.g., HunYuan-NLP 1T, Top-1 model in [CLUE](https://cluebenchmarks.com/rank.html)). I was a research intern in [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) of Microsoft Research Asia (MSRA), working with [Lingxiao Ma](https://xysmlx.github.io), [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/), [Shijie Cao](https://www.microsoft.com/en-us/research/people/shijiecao/) and [Youshan Miao](https://www.microsoft.com/en-us/research/people/yomia/), where we focused on training sparse MoE models efficiently.
+<!-- I am currently a fourth-year PhD student (2019 -- 2024) advised by Prof. [Bin Cui](https://cuibinpku.github.io) at School of Computer Science, Peking University. My research interests include Large-Scale Deep Learning Systems, Distributed Computing, Heterogeneous Computing and Sparse Neural Network. I am the main developer of [Hetu](https://hsword.github.io/projects/hetu/), an highly efficient distributed deep learning system. -->
+
+
+Currently, I am interning at Tencent MLPD, where I am leading the development of Angel-PTM, a Large-Scale Pre-training System. Moreover, I am also the main developer of [Hetu](https://github.com/PKU-DAIR/Hetu), a highly efficient distributed deep learning system.
+
+<!-- Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at Tencent, where I lead the development of a Large-Scale Pre-training System. 
+Previous, I was a research intern in [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) of Microsoft Research Asia (MSRA), working with [Lingxiao Ma](https://xysmlx.github.io), [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/), [Shijie Cao](https://www.microsoft.com/en-us/research/people/shijiecao/) and [Youshan Miao](https://www.microsoft.com/en-us/research/people/yomia/), where we focused on training sparse MoE models efficiently. -->
 
 News
 =====
@@ -28,6 +34,19 @@ News
 <!-- + (https://vldb.org/2022/?conference-awards)! -->
 
 + Jan 20th, 2022: We won Outstanding Award & Champion of [2021 CCF BDCI Contest](https://mp.weixin.qq.com/s/hSoDMVMZApQxaiNqh2jUSg). (1st/33757).
+
+Systems
+=====
++ **Hetu: A Highly Efficient Automatic Parallel Distributed Deep Learning System**
+  + [2021 Synced Machine Intelligence TOP-10 Open Source Awards.](https://www.jiqizhixin.com/awards/2021/events)
+  + [Pop SOTA！List for AI Developers 2021.](https://mp.weixin.qq.com/s/jHkF9UpgEn1MLZpRH2FOaA)
+  + Outstanding Award & Champion of [[2021 CCF BDCI Contest]](https://mp.weixin.qq.com/s/hSoDMVMZApQxaiNqh2jUSg)
+
+
++ **Angel-PTM: A Scalable and Economical Large-Scale Pre-training System in Tencent**
+  + Supports the training of trillion-level models (e.g., [HunYuan-NLP 1T, Top-1 model in CLUE](https://cluebenchmarks.com/rank.html))
+  
+
 
 Publications
 =====
