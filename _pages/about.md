@@ -58,7 +58,7 @@ Publications
   ACM SIGMOD International Conference on Management of Data. <br>
   ***SIGMOD 2023, CCF-A.***
 
-2. **Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent.** [To appear]<br>
+2. **Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent.** [[PDF]](https://arxiv.org/pdf/2303.02868.pdf)<br>
    **Xiaonan Nie**,  Yi Liu, Fangcheng Fu, Jinbao Xue, Dian Jiao, Xupeng Miao, Yangyu Tao, and Bin Cui.<br>
    ***Under Review.***
 
