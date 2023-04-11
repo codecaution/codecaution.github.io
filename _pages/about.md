@@ -53,7 +53,7 @@ Publications
 
 2023
 ======
-1. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [To appear]<br>
+1. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [[PDF]](https://arxiv.org/abs/2304.03946)<br>
   **Xiaonan Nie**,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui.<br>
   ACM SIGMOD International Conference on Management of Data. <br>
   ***SIGMOD 2023, CCF-A.***
