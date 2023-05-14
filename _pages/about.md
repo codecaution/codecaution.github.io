@@ -23,6 +23,10 @@ Previous, I was a research intern in [System Research Group](https://www.microso
 
 News
 =====
++ May 13th, 2023 : One paper was accepted by ***VLDB 2023***.
+
++ Apr 20th, 2023 : One paper was accepted by ***IJCAI 2023***.
+
 + Dec 13th, 2022: One paper was accepted by ***SIGMOD 2023***.
 
 + Oct 16th, 2022: One paper was accepted by ***VLDB 2023***.
@@ -53,19 +57,25 @@ Publications
 
 2023
 ======
-1. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [[PDF]](https://arxiv.org/abs/2304.03946)<br>
+1. **Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent.** [[PDF]](https://arxiv.org/pdf/2303.02868.pdf)<br>
+   **Xiaonan Nie**,  Yi Liu, Fangcheng Fu, Jinbao Xue, Dian Jiao, Xupeng Miao, Yangyu Tao, and Bin Cui.<br>
+   International Conference on Very Large Data Bases. <br>
+   ***VLDB 2023, CCF-A.*** 
+
+2. **FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement.** [[PDF]](https://arxiv.org/abs/2304.03946)<br>
   **Xiaonan Nie**,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui.<br>
   ACM SIGMOD International Conference on Management of Data. <br>
   ***SIGMOD 2023, CCF-A.***
-
-2. **Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent.** [[PDF]](https://arxiv.org/pdf/2303.02868.pdf)<br>
-   **Xiaonan Nie**,  Yi Liu, Fangcheng Fu, Jinbao Xue, Dian Jiao, Xupeng Miao, Yangyu Tao, and Bin Cui.<br>
-   ***Under Review.***
 
 3. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)<br>
   Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui.<br>
   International Conference on Very Large Data Bases. <br>
   ***VLDB 2023, CCF-A.*** 
+
+4. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
+  Youhe Jiang,  Fangcheng Fu, Xupeng Miao, **Xiaonan Nie** and Bin Cui.<br>
+  International Joint Conference on Artificial Intelligence. <br>
+  ***IJCAI 2023, CCF-A.***
 
 2022
 ======
@@ -93,10 +103,6 @@ Publications
   ACM SIGMOD International Conference on Management of Data. <br>
   ***SIGMOD 2022, CCF-A.***
 
-6. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
-  Youhe Jiang,  Xupeng Miao, **Xiaonan Nie** and Bin Cui.<br>
-  International Conference on Machine Learning(HEAT Workshop). <br>
-  ***ICML 2022, CCF-A.***
 
 
 2021
