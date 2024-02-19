@@ -11,18 +11,21 @@ Xiaonan Nie (聂小楠)
 ====
 Email: xiaonan.nie [AT] pku.edu.cn
 
-I am a fourth-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io). My research interests primarily lie in the field of large-scale deep learning systems, with a focus on distributed computing, heterogeneous computing, and sparse neural networks. 
+Xiaonan Nie is currently a final-year PhD student under the supervision of Professor [Bin Cui](https://cuibinpku.github.io) at [DAIR Lab](https://github.com/PKU-DAIR), Computer Science Department, Peking University.  
 
-<!-- I am currently a fourth-year PhD student (2019 -- 2024) advised by Prof. [Bin Cui](https://cuibinpku.github.io) at School of Computer Science, Peking University. My research interests include Large-Scale Deep Learning Systems, Distributed Computing, Heterogeneous Computing and Sparse Neural Network. I am the main developer of [Hetu](https://hsword.github.io/projects/hetu/), an highly efficient distributed deep learning system. -->
+His research interests primarily lie in the field of Distributed Deep Learning Systems, focusing on Large Language Model (LLM) systems, Multi-Agent Systems, Heterogeneous Computing, and Sparse Neural Networks, specifically Mixture of Experts (MoE). During his PhD, his research has concentrated on Hetu, a highly efficient distributed deep learning system, where he also served as the main developer.
 
 
-Currently, I am interning at Tencent MLPD, where I am leading the development of Angel-PTM, a Large-scale Pre-training System. Moreover, I am also the main developer of [Hetu](https://github.com/PKU-DAIR/Hetu), a highly efficient distributed deep learning system.
+As a research intern at Tencent's Machine Learning Platform Department (2022-2023), he led the development of Angel-PTM, a large-scale pre-training system designed for trillion-scale models. Additionally, he was a research intern in [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) of Microsoft Research Asia (MSRA) during 2021-2022, under the supervision of Dr. Jilong Xue and Dr. Lingxiao Ma.
 
 <!-- Now, I am interned at the Machine Learning Platform Department (MLPD) of TEG at Tencent, where I lead the development of a Large-Scale Pre-training System. 
 Previous, I was a research intern in [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) of Microsoft Research Asia (MSRA), working with [Lingxiao Ma](https://xysmlx.github.io), [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/), [Shijie Cao](https://www.microsoft.com/en-us/research/people/shijiecao/) and [Youshan Miao](https://www.microsoft.com/en-us/research/people/yomia/), where we focused on training sparse MoE models efficiently. -->
 
 News
 =====
+
++ Mar 19th, 2024: Fortunately, I have been invited to give a talk about LLM inference on NVIDIA [GTC 2024](https://www.nvidia.com/gtc/).
+  
 + May 13th, 2023 : One paper was accepted by ***VLDB 2023***.
 
 + Apr 20th, 2023 : One paper was accepted by ***IJCAI 2023***.
@@ -67,12 +70,12 @@ Publications
   ACM SIGMOD International Conference on Management of Data. <br>
   ***SIGMOD 2023, CCF-A.***
 
-3. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)<br>
+1. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [[PDF]](https://arxiv.org/abs/2211.13878)<br>
   Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui.<br>
   International Conference on Very Large Data Bases. <br>
   ***VLDB 2023, CCF-A.*** 
 
-4. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
+1. **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning.** [[PDF]](https://arxiv.org/abs/2209.13258)<br>
   Youhe Jiang,  Fangcheng Fu, Xupeng Miao, **Xiaonan Nie** and Bin Cui.<br>
   International Joint Conference on Artificial Intelligence. <br>
   ***IJCAI 2023, CCF-A.***
@@ -114,6 +117,7 @@ Publications
 
 Awards
 ====
++ The first level of [Huawei Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html) (华为天才少年), 2023.
 + [CCF BDCI](https://www.datafountain.cn/special/BDCI2021) Outstanding Award & Champion, 2021.
 + [HUAWEI DIGIX Global AI Challenge](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixWinnersDetail/201621215957378831), First runner-up of *Search rankings in multimodal and multilingual contexts*, 2021.
 + ACM-ICPC Asia Regional Contest, Silver Medal, 2017.
