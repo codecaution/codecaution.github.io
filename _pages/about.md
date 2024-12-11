@@ -10,7 +10,7 @@ redirect_from:
 Xiaonan Nie (聂小楠)
 ====
 
-Xiaonan is currently a research scientist specializing in ML systems at ByteDance Inc., within the TopSeed Program. His work primarily focuses on scaling and optimizing the training of deep learning models. He received his Ph.D. degree in Computer Science from Peking University in 2024, under the supervision of [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
+Xiaonan is currently a research scientist specializing in ML systems at ByteDance Inc. (San Jose, USA), within the TopSeed Program. His work primarily focuses on scaling and optimizing the training of deep learning models. He received his Ph.D. degree in Computer Science from Peking University in 2024, under the supervision of [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
 
 In terms of academic research, Xiaonan has published over 10 papers in top conferences and journals. He won the Best Scalable Data Science Award at VLDB 2022, and was invited to present his research on MoE training at [the 1st Google MoE workshop](https://rsvp.withgoogle.com/events/googleworkshopsparsityadaptivecomputation-2022/agenda) and his research on LLM inference at [NVIDIA's GPU technology conference (GTC) 2024](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61691/).
 
@@ -49,7 +49,7 @@ In terms of system design and implementation, Xiaonan was the principal develope
 ## Publications:
 ### 2024
 + **[Preprint]** Ran Yan, Youhe Jiang, Wangcheng Tao, **Xiaonan Nie**, Bin Cui, Binhang Yuan. "*[FlashFlex: Accommodating Large Language Model Training over Heterogeneous Environment](https://arxiv.org/abs/2409.01143)*".
-+ **[NeurIPS]** **Xiaonan Nie**, Qibin Liu, Fangcheng Fu, Shenhan Zhu, Xupeng Miao, Xiaoyang Li, Yang Zhang, Shouda Liu, Bin Cui. "*[LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing.](https://openreview.net/forum?id=bjFhVbky5A&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))*".
++ **[NeurIPS]** **Xiaonan Nie**, Qibin Liu, Fangcheng Fu, Shenhan Zhu, Xupeng Miao, Xiaoyang Li, Yang Zhang, Shouda Liu, Bin Cui. "*[LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing.](https://arxiv.org/abs/2411.08446)*".
 + **[SIGMOD]** Pinxue Zhao, Hailin Zhang, Fangcheng Fu, **Xiaonan Nie**, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui. "*[Efficiently Training 7B LLM with 1 Million Sequence Length on 8 GPUs.](https://arxiv.org/abs/2407.12117)*".
 + **[SOSP]** Hao Ge, Fangcheng Fu, Haoyang Li,  Xuanyu Wang and Sheng Lin, Yujie Wang, **Xiaonan Nie**, Hailin Zhang, Xupeng Miao, Bin Cui. "*Enabling Parallelism Hot Switching for Efficient Training of Large Language Models*".
 + **[TKDE]** Yujie Wang, Youhe Jiang, Xupeng Miao, Fangcheng Fu, Shenhan Zhu, **Xiaonan Nie**, Yaofeng Tu, Bin Cui. "*[Improving Automatic Parallel Training via Balanced Memory Workload Optimization](https://arxiv.org/abs/2307.02031)*".
