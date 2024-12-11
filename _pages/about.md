@@ -10,7 +10,7 @@ redirect_from:
 Xiaonan Nie (聂小楠)
 ====
 
-Xiaonan is currently a research scientist specializing in ML systems at ByteDance Inc. (San Jose, USA), within the TopSeed Program. His work primarily focuses on scaling and optimizing the training of deep learning models. He received his Ph.D. degree in Computer Science from Peking University in 2024, under the supervision of [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
+Xiaonan is currently a research scientist specializing in ML systems at ByteDance in San Jose, within the TopSeed Program. His work primarily focuses on scaling and optimizing the training of deep learning models. He received his Ph.D. degree in Computer Science from Peking University in 2024, under the supervision of [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
 
 In terms of academic research, Xiaonan has published over 10 papers in top conferences and journals. He won the Best Scalable Data Science Award at VLDB 2022, and was invited to present his research on MoE training at [the 1st Google MoE workshop](https://rsvp.withgoogle.com/events/googleworkshopsparsityadaptivecomputation-2022/agenda) and his research on LLM inference at [NVIDIA's GPU technology conference (GTC) 2024](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61691/).
 
