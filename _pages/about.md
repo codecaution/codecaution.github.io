@@ -28,6 +28,9 @@ In terms of system design and implementation, Xiaonan was the principal develope
 🔍🔍🔍 <font color=red>I am seeking highly motivated full-time employees and research interns. If interested, please contact me directly!</font>
 
 ## What's New:
++ **Feb, 2025:** Two papers were accepted by ***SIGMOD 2025***.
++ **Jan, 2025:** One paper was accepted by ***ICLR 2025***.
++ **Jan, 2025:** One paper was accepted by ***ICDE 2025***.
 + **Sep, 2024:** One paper was accepted by ***NeurIPS 2024***.
 + **Sep, 2024:** One paper was accepted by ***SIGMOD 2024***.
 + **Aug, 2024:** One paper was accepted by ***SOSP 2024***.
@@ -47,8 +50,17 @@ In terms of system design and implementation, Xiaonan was the principal develope
   + Supports the training of trillion-level models (e.g., [HunYuan-NLP 1T, Top-1 model in CLUE](https://cluebenchmarks.com/rank.html))
 
 ## Publications:
+### 2025
++ **[SIGMOD]** Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, Hailin Zhang, **Xiaonan Nie**, Bin Cui. "*[Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.]()*".
+
++ **[SIGMOD]** Hailin Zhang, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, **Xiaonan Nie**, Weipeng Chen, Bin Cui. "*[PQCache: Product Quantization-based KVCache for Long Context LLM Inference.]()*".
+
++ **[ICLR]** Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, **Xiaonan Nie**, Bin Cui. "*[NetMoE: Accelerating MoE Training through Dynamic Sample Placement.]()*".
+
++ **[ICDE]** Keer Lu, **Xiaonan Nie**, Zheng Liang, Da Pan, Shusen Zhang, Weipeng Chen, Zenan Zhou, Guosheng Dong, Bin Cui, Wentao Zhang. "*[DataSculpt: A Holistic Data Management Framework for Long-Context LLMs Training.]()*".
+
+
 ### 2024
-+ **[Preprint]** Ran Yan, Youhe Jiang, Wangcheng Tao, **Xiaonan Nie**, Bin Cui, Binhang Yuan. "*[FlashFlex: Accommodating Large Language Model Training over Heterogeneous Environment](https://arxiv.org/abs/2409.01143)*".
 + **[NeurIPS]** **Xiaonan Nie**, Qibin Liu, Fangcheng Fu, Shenhan Zhu, Xupeng Miao, Xiaoyang Li, Yang Zhang, Shouda Liu, Bin Cui. "*[LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing.](https://arxiv.org/abs/2411.08446)*".
 + **[SIGMOD]** Pinxue Zhao, Hailin Zhang, Fangcheng Fu, **Xiaonan Nie**, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui. "*[Efficiently Training 7B LLM with 1 Million Sequence Length on 8 GPUs.](https://arxiv.org/abs/2407.12117)*".
 + **[SOSP]** Hao Ge, Fangcheng Fu, Haoyang Li,  Xuanyu Wang and Sheng Lin, Yujie Wang, **Xiaonan Nie**, Hailin Zhang, Xupeng Miao, Bin Cui. "*Enabling Parallelism Hot Switching for Efficient Training of Large Language Models*".
