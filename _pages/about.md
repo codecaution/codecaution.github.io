@@ -57,11 +57,11 @@ In terms of system design and implementation, Xiaonan was the principal develope
 ## Publications:
 ### 2025
 + **[SIGMOD]** Pinxue Zhao, Hailin Zhang, Fangcheng Fu, **Xiaonan Nie**, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui. "*[Efficiently Training 7B LLM with 1 Million Sequence Length on 8 GPUs.](https://arxiv.org/abs/2407.12117)*".
-+ **[SIGMOD]** Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, Hailin Zhang, **Xiaonan Nie**, Bin Cui. "*[Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.]()*".
-+ **[SIGMOD]** Hailin Zhang, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, **Xiaonan Nie**, Weipeng Chen, Bin Cui. "*[PQCache: Product Quantization-based KVCache for Long Context LLM Inference.]()*".
++ **[SIGMOD]** Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, Hailin Zhang, **Xiaonan Nie**, Bin Cui. "*[Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.](https://arxiv.org/abs/2410.13333)*".
++ **[SIGMOD]** Hailin Zhang, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, **Xiaonan Nie**, Weipeng Chen, Bin Cui. "*[PQCache: Product Quantization-based KVCache for Long Context LLM Inference.](https://arxiv.org/abs/2407.12820)*".
 + **[SIGCOMM]** Hao Ge, Junda Feng, Qi Huang, Fangcheng Fu, **Xiaonan Nie**, Lei Zuo, Haibin Lin, Bin Cui, Xin Liu. "*[ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs.](https://arxiv.org/abs/2502.21231)*".
-+ **[ICLR]** Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, **Xiaonan Nie**, Bin Cui. "*[NetMoE: Accelerating MoE Training through Dynamic Sample Placement.]()*".
-+ **[ICDE]** Keer Lu, **Xiaonan Nie**, Zheng Liang, Da Pan, Shusen Zhang, Weipeng Chen, Zenan Zhou, Guosheng Dong, Bin Cui, Wentao Zhang. "*[DataSculpt: A Holistic Data Management Framework for Long-Context LLMs Training.]()*".
++ **[ICLR]** Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, **Xiaonan Nie**, Bin Cui. "*[NetMoE: Accelerating MoE Training through Dynamic Sample Placement.](https://openreview.net/forum?id=1qP3lsatCR)*".
++ **[ICDE]** Keer Lu, **Xiaonan Nie**, Zheng Liang, Da Pan, Shusen Zhang, Weipeng Chen, Zenan Zhou, Guosheng Dong, Bin Cui, Wentao Zhang. "*[DataSculpt: A Holistic Data Management Framework for Long-Context LLMs Training.](https://arxiv.org/abs/2409.00997)*".
 
 
 ### 2024
