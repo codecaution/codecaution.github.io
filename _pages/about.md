@@ -49,11 +49,17 @@ In terms of system design and implementation, Xiaonan was the principal develope
 + **Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent**
   + Supports the training of trillion-level models (e.g., [HunYuan-NLP 1T, Top-1 model in CLUE](https://cluebenchmarks.com/rank.html))
 
+## Tech Reports:
++ **[Video]** Seedance 1.0: Exploring the Boundaries of Video Generation Models, ByteDance Seed. [PDF](https://arxiv.org/abs/2506.09113)
++ **[Multimodal]** Bagel: Emerging Properties in Unified Multimodal Pretraining, ByteDance Seed. [PDF](https://arxiv.org/abs/2505.14683)
++ **[LLM]** Baichuan 2: Open large-scale language models, Baichuan Inc. [PDF](https://arxiv.org/abs/2309.10305)
+
 ## Publications:
 ### 2025
 + **[SIGMOD]** Pinxue Zhao, Hailin Zhang, Fangcheng Fu, **Xiaonan Nie**, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui. "*[Efficiently Training 7B LLM with 1 Million Sequence Length on 8 GPUs.](https://arxiv.org/abs/2407.12117)*".
 + **[SIGMOD]** Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, Hailin Zhang, **Xiaonan Nie**, Bin Cui. "*[Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.]()*".
 + **[SIGMOD]** Hailin Zhang, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, **Xiaonan Nie**, Weipeng Chen, Bin Cui. "*[PQCache: Product Quantization-based KVCache for Long Context LLM Inference.]()*".
++ **[SIGCOMM]** Hao Ge, Junda Feng, Qi Huang, Fangcheng Fu, **Xiaonan Nie**, Lei Zuo, Haibin Lin, Bin Cui, Xin Liu. "*[ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs.](https://arxiv.org/abs/2502.21231)*".
 + **[ICLR]** Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, **Xiaonan Nie**, Bin Cui. "*[NetMoE: Accelerating MoE Training through Dynamic Sample Placement.]()*".
 + **[ICDE]** Keer Lu, **Xiaonan Nie**, Zheng Liang, Da Pan, Shusen Zhang, Weipeng Chen, Zenan Zhou, Guosheng Dong, Bin Cui, Wentao Zhang. "*[DataSculpt: A Holistic Data Management Framework for Long-Context LLMs Training.]()*".
 
@@ -64,7 +70,6 @@ In terms of system design and implementation, Xiaonan was the principal develope
 + **[TKDE]** Yujie Wang, Youhe Jiang, Xupeng Miao, Fangcheng Fu, Shenhan Zhu, **Xiaonan Nie**, Yaofeng Tu, Bin Cui. "*[Improving Automatic Parallel Training via Balanced Memory Workload Optimization](https://arxiv.org/abs/2307.02031)*".
   
 ### 2023
-+ **[Preprint]** Baichuan Inc. "*[Baichuan 2: Open large-scale language models](https://arxiv.org/abs/2309.10305)*", arXiv 2023.
 + **[SIGMOD]** **Xiaonan Nie**,  Xupeng Miao, Zilong Wang,  Jilong Xue, Lingxiao Ma, Zichao Yang, Gang Cao and Bin Cui. "*[FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement](https://arxiv.org/abs/2304.03946)*".
 + **[VLDB]** **Xiaonan Nie**, Yi Liu, Fangcheng Fu, Jinbao Xue, Dian Jiao, Xupeng Miao, Yangyu Tao, and Bin Cui. "*[Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent](https://arxiv.org/pdf/2303.02868.pdf)*".
 + **[VLDB]** Xupeng Miao, Yujie Wang, Youhe Jiang,  Chunan Shi, **Xiaonan Nie**, Hailin Zhang and Bin Cui. "*[Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism](https://www.vldb.org/pvldb/vol16/p470-miao.pdf)*".
