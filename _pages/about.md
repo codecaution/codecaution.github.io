@@ -10,7 +10,7 @@ redirect_from:
 Xiaonan Nie (聂小楠)
 ====
 
-Xiaonan is currently a research scientist specializing in ML systems at ByteDance in San Jose, within the TopSeed Program. His work primarily focuses on scaling and optimizing the training of deep learning models. He received his Ph.D. degree in Computer Science from Peking University in 2024, under the supervision of [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
+Xiaonan is currently a staff research scientist specializing in ML systems at ByteDance in San Jose, within the TopSeed Program. His work primarily focuses on scaling and optimizing the training of deep learning models. He received his Ph.D. degree in Computer Science from Peking University in 2024, under the supervision of [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/). 
 
 In terms of academic research, Xiaonan has published over 10 papers in top conferences and journals. He won the Best Scalable Data Science Award at VLDB 2022, and was invited to present his research on MoE training at [the 1st Google MoE workshop](https://rsvp.withgoogle.com/events/googleworkshopsparsityadaptivecomputation-2022/agenda) and his research on LLM inference at [NVIDIA's GPU technology conference (GTC) 2024](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61691/).
 
@@ -19,7 +19,7 @@ In terms of system design and implementation, Xiaonan was the principal develope
 **Email**: xiaonan.nie [AT] pku.edu.cn, niexiaonan &ensp;[AT] bytedance.com
 
 ## Research Interests:
-+ Efficient Video Generation Model(e.g., SoRA)
++ Unified Model for Understanding and Generation
 + Algorithm-System Co-Design
 + Machine Learning System
 + Data Management
@@ -50,7 +50,8 @@ In terms of system design and implementation, Xiaonan was the principal develope
   + Supports the training of trillion-level models (e.g., [HunYuan-NLP 1T, Top-1 model in CLUE](https://cluebenchmarks.com/rank.html))
 
 ## Tech Reports:
-+ **[Video]** Seedance 1.0: Exploring the Boundaries of Video Generation Models, ByteDance Seed. [PDF](https://arxiv.org/abs/2506.09113)
++ **[ImageGen]** Seedream 4.0: Toward next-generation multimodal image generation, ByteDance Seed. [PDF](https://arxiv.org/abs/2509.20427)
++ **[VideoGen]** Seedance 1.0: Exploring the Boundaries of Video Generation Models, ByteDance Seed. [PDF](https://arxiv.org/abs/2506.09113)
 + **[Multimodal]** Bagel: Emerging Properties in Unified Multimodal Pretraining, ByteDance Seed. [PDF](https://arxiv.org/abs/2505.14683)
 + **[LLM]** Baichuan 2: Open large-scale language models, Baichuan Inc. [PDF](https://arxiv.org/abs/2309.10305)
 
@@ -90,17 +91,6 @@ In terms of system design and implementation, Xiaonan was the principal develope
 + **[SIGMOD]** Xupeng Miao, **Xiaonan Nie**, Yingxia Shao, Zhi Yang, Jiawei Jiang, Lingxiao Ma and Bin Cui. "*[Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce](https://dl.acm.org/doi/10.1145/3448016.3452773)*".
   
    
-
-## Awards
-+ Outstanding Graduate of Peking University, 2024.
-+ The 1st level of Huawei Top Minds,  2023.
-+ Ubiquant Scholarship, 2023.
-+ Schlumberger Scholarship, 2022.
-+ [CCF BDCI](https://www.datafountain.cn/special/BDCI2021) Outstanding Award & Champion, 2021.
-+ [HUAWEI DIGIX Global AI Challenge](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixWinnersDetail/201621215957378831), First runner-up of *Search rankings in multimodal and multilingual contexts*, 2021.
-+ ACM-ICPC Asia Regional Contest, Silver Medal, 2017.
-+ National Scholarship, 2016.
-
 ### Academic Services
-+ Program Committee of ICDE, WWW
-+ Reviewer of ICLR
++ Program Committee of ICDE, WWW, FAISys
++ Reviewer of ICLR, NeurIPS, ICML, CVPR
